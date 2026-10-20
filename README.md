@@ -2,7 +2,7 @@
 
 An end-to-end machine-learning project that tries to forecast Apple's **next-day stock price and return** from 5 years of daily market data. It focuses on **honest evaluation**: every model is compared against a naive baseline, using a chronological train/test split.
 
-👉 **[Open the notebook](apple_stock_regression.ipynb)**
+**[Open the notebook](apple_stock_regression.ipynb)**
 
 ## Key results
 
